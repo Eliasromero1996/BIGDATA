@@ -1,0 +1,37 @@
+/*zona de tags */
+
+table, th, td {
+  border: 1px solid greenyellow
+}
+body {
+  background-color: black;
+  color: white
+}
+a {
+  color: red
+}
+
+/* zona de clases*/
+
+.articulos{
+  background-color: black;
+  text-align: center;
+}
+.imagen{
+  border: 2px solid greenyellow
+}
+.contenidoarticulos{
+  border: 2px solid green
+}
+
+/* zona de ids */
+
+#titulouno{
+  color: cyan
+}
+#titulodos{
+  color: darkmagenta
+}
+#titulotres{
+  color: coral
+}
